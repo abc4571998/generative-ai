@@ -1,0 +1,8 @@
+total 72
+-rw-r--r--@ 1 goorm  staff   196 Aug 19 20:55 README.md
+-rw-r--r--@ 1 goorm  staff  1452 Aug 19 16:41 Untitled.ipynb
+-rw-r--r--@ 1 goorm  staff     0 Aug 19 21:44 out.txt
+-rw-r--r--  1 goorm  staff  7896 Aug 15 23:36 python_basic1.ipynb
+-rw-r--r--  1 goorm  staff  6701 Aug 18 18:31 python_basic2.ipynb
+-rw-r--r--@ 1 goorm  staff  7683 Aug 19 20:51 python_basic3.ipynb
+-rw-r--r--@ 1 goorm  staff   321 Aug 19 20:47 test.py
